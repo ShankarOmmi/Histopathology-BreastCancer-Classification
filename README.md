@@ -19,7 +19,7 @@ This project focuses on the classification of breast tumors based on histopathol
    - Data Augmentation (Flipping, Rotation, Cropping)
 2. **Model Selection**
    - CNN Architectures (ResNet)
-3.**Loss functions used**
+3. **Loss functions used**
    - Cross Entropy
    - Weighted Cross Entropy 
 4. **Training & Evaluation**
@@ -27,8 +27,8 @@ This project focuses on the classification of breast tumors based on histopathol
    - Comparison of two loss functions
 
 ## Results
-- **Best Performing Model:** (Update with final model)
-- **Accuracy:** 
+- **Best Performing Model:** ResNet50 with CrossEntropy Loss
+- **Accuracy:** 88 %
 
 ## Future Work
 - Implementation of self-supervised learning for better feature extraction
